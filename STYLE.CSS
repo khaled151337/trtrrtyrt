@@ -1,0 +1,19 @@
+body{
+    height: 1500px;
+}
+
+.mitter{
+    height: 20px;
+    width: 100%;
+    background-color: yellowgreen;
+    position: fixed;
+}
+
+.inner{
+    height: 100%;
+    width: .5%;
+    background-color: brown;
+
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
